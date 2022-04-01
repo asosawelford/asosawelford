@@ -6,8 +6,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/alejandro-sosa-welford
 - 
 -   <h3> 💻 Languages and Tools </h3>
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
