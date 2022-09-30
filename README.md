@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my thesis project and a spanish implementation of a TTS system
 - 🌱 I’m currently learning about ML for audio and speech
 - 📫 How to reach me: https://www.linkedin.com/in/alejandro-sosa-welford
-- 
+
 -   <h3> 💻 Languages and Tools </h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
