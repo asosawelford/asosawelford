@@ -1,8 +1,8 @@
 <h1>Hi!</h1>
 <h3>Engineer student and AI enthusiast </h3>
 
-- 🔭 I’m currently working on my first AI Audio project
-- 🌱 I’m currently learning data stactures, data analytics and deep learning basics
+- 🔭 I’m currently working on my thesis project and a spanish implementation of a TTS system
+- 🌱 I’m currently learning about ML for audio and speech
 - 📫 How to reach me: https://www.linkedin.com/in/alejandro-sosa-welford
 - 
 -   <h3> 💻 Languages and Tools </h3>
