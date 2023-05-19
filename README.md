@@ -2,13 +2,15 @@
 <h3>Engineer student and AI enthusiast </h3>
 
 - 🔭 I’m currently working on my thesis project and a spanish implementation of a TTS system
-- 🌱 I’m currently learning about ML for audio and speech
+- 🌱 I’m currently researching different ML aplicattions for audio and speech
+- 📚 I’m currently learning about NLP and language models
 - 📫 How to reach me: https://www.linkedin.com/in/alejandro-sosa-welford
 
 -   <h3> 💻 Languages and Tools </h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![JavaScript]([https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
