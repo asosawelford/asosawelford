@@ -1,5 +1,5 @@
 <h1>Hi!</h1>
-<h3>Engineer student and AI enthusiast </h3>
+<h3>Engineer specialized in audio and audio ML solutions </h3>
 
 - 🔭 I’m currently working on my thesis project and a spanish implementation of a TTS system
 - 🌱 I’m currently researching different ML aplicattions for audio and speech
