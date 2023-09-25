@@ -1,9 +1,9 @@
 <h1>Hi!</h1>
 <h3>Engineer specialized in audio and audio ML solutions </h3>
 
-- 🔭 I’m currently working on my thesis project and a spanish implementation of a TTS system
-- 🌱 I’m currently researching different ML aplicattions for audio and speech
-- 📚 I’m currently learning about NLP and language models
+- 🔭 Working on automated speech and language analysis and on my thesis project
+- 🌱 Researching different ML aplicattions for audio and speech
+- 📚 Learning about NLP and language models
 - 📫 How to reach me: https://www.linkedin.com/in/alejandro-sosa-welford
 
 -   <h3> 💻 Languages and Tools </h3>
